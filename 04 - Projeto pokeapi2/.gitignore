@@ -1,0 +1,5 @@
+target/
+pokemon.log
+*.class
+.idea/
+*.iml
